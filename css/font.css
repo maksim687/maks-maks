@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Caveat-Regular';
+  src: url('../fonts/Caveat-Regular.eot');
+  src: url('../fonts/Caveat-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Caveat-Regular.svg#Caveat-Regular') format('svg'),
+       url('../fonts/Caveat-Regular.woff') format('woff'),
+       url('../fonts/Caveat-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
